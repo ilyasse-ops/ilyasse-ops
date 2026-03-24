@@ -1,131 +1,37 @@
-# ilyasse-ops 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=ilyasse-ops&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-Welcome to **ilyasse-ops**, a comprehensive DevOps and infrastructure operations repository. This space is dedicated to automation, infrastructure as code, and operational excellence.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ilyasse-ops ">
+    <img src="https://komarev.com/ghpvc/?username=ilyasse-ops &label=Profile%20views&color=00FFFF&style=flat-square" alt="ilyasse-ops 's profile views" />
+  </a>
+</p>
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Technologies & Tools](#technologies--tools)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
-## Overview
+## 🛠️ Languages & Tools
 
-This repository serves as a central hub for:
-- 🏗️ **Infrastructure as Code (IaC)** - Terraform, CloudFormation, and custom configurations
-- 🤖 **Automation Scripts** - Bash, Python, and other scripting solutions
-- 🔄 **CI/CD Pipelines** - GitHub Actions, workflow automation
-- 📚 **Documentation** - Runbooks, guides, and best practices
-- 🛠️ **Configuration Management** - Ansible, environment configs
-- 📊 **Monitoring & Observability** - Logging, metrics, and alerting setups
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
-## 🚀 Getting Started
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
 
-### Prerequisites
-Before you begin, ensure you have the following installed:
-- **Git** - Version control
-- **Docker** - Containerization
-- **Terraform** (optional) - Infrastructure provisioning
-- **Python 3.8+** (optional) - For automation scripts
-- **Ansible** (optional) - Configuration management
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="48" height="48" style="margin: 4px;" /></p>
 
-### Quick Start
-```bash
-# Clone the repository
-git clone https://github.com/ilyasse-ops/ilyasse-ops.git
-cd ilyasse-ops
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
 
-# Explore the structure
-ls -la
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
-# Read the documentation
-cat docs/README.md
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
-## 📁 Project Structure
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
 
-```
-ilyasse-ops/
-├── .github/
-│   └── workflows/          # GitHub Actions CI/CD workflows
-├── docs/                   # Documentation and guides
-│   ├── SETUP.md           # Setup instructions
-│   ├── CONTRIBUTING.md    # Contribution guidelines
-│   └── ARCHITECTURE.md    # System architecture
-├── scripts/               # Automation and utility scripts
-│   ├── deploy.sh          # Deployment scripts
-│   ├── backup.py          # Backup automation
-│   └── utils/             # Utility functions
-├── infrastructure/        # Infrastructure as Code
-│   ├── terraform/         # Terraform configurations
-│   ├── ansible/           # Ansible playbooks
-│   └── docker/            # Docker configurations
-├── config/                # Environment configurations
-├── tests/                 # Test scripts and fixtures
-├── LICENSE                # License file
-├── README.md              # This file
-└── .gitignore             # Git ignore rules
-```
-
-## 🔧 Technologies & Tools
-
-### Infrastructure
-- **Terraform** - Infrastructure as Code
-- **Docker** - Containerization
-- **Kubernetes** - Container orchestration
-
-### CI/CD & Automation
-- **GitHub Actions** - Workflow automation
-- **Bash/Shell** - Scripting
-- **Python** - Automation scripts
-
-### Configuration Management
-- **Ansible** - Infrastructure automation
-- **YAML** - Configuration files
-
-### Monitoring & Observability
-- **Prometheus** - Metrics collection
-- **ELK Stack** - Logging and analysis
-- **Grafana** - Visualization
-
-## 💡 Key Features
-
-✅ **Production-Ready** - Battle-tested configurations
-✅ **Well-Documented** - Comprehensive guides and runbooks
-✅ **Modular Design** - Reusable components and playbooks
-✅ **Security-First** - Best practices for secure operations
-✅ **Scalable** - Designed to grow with your infrastructure
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)
-3. **Commit your changes** (`git commit -m 'Add amazing feature'`)
-4. **Push to the branch** (`git push origin feature/amazing-feature`)
-5. **Open a Pull Request**
-
-Please ensure:
-- Code follows the existing style
-- Documentation is updated
-- Tests pass (if applicable)
-- Commits are clear and descriptive
-
-## 📄 License
-
-This project is open source and available under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact & Support
-
-- **GitHub Issues** - For bug reports and feature requests
-- **Discussions** - For questions and community support
-- **Email** - ilyasse-ops@example.com
-
----
-
-**Last Updated**: 2026-03-17 14:17:40
-**Maintainer**: @ilyasse-ops
-**Status**: Active Development ✅
